@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+}
+#score {
+    margin: 20px;
+    font-size: 25px;
+}
+#time{
+    margin: 20px;
+    float: right;
+    font-size: 25px;
+}
+
+#sketch_name{
+    color: rgb(228, 0, 57);
+}
